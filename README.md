@@ -1,5 +1,5 @@
 # Global_Air_Pollution
-#Project Purpose: Investigating Air Pollution Patterns and Impacts
+# Project Purpose: Investigating Air Pollution Patterns and Impacts
 
 The purpose of this project is to conduct a comprehensive analysis of air pollution data with the aim of uncovering critical insights into the patterns, sources, and potential impacts of air pollution on countries. Air pollution is a pressing global issue with far-reaching consequences for human health, the environment, and the economy. By undertaking this analysis, we seek to contribute to a deeper understanding of the complexities surrounding air quality and provide valuable information that can guide informed decision-making at various levels.
 
