@@ -17,8 +17,17 @@ Breathing air with a high concentration of CO reduces the amount of oxygen that 
 
 Particulate Matter [PM2.5]: Atmospheric Particulate Matter, also known as atmospheric aerosol particles, are complex mixtures of small solid and liquid matter that get into the air. If inhaled they can cause serious heart and lung problems. They have been classified as a group 1 carcinogen by the International Agency for Research on Cancer (IARC). PM10 refers to those particles with a diameter of 10 micrometers or less. PM2.5 refers to those particles with a diameter of 2.5 micrometers or less.
 
-# Content
-There is one dataset here.
+# Findings
+[Please check the Tableau Storyboard for details](https://public.tableau.com/views/airpolluton/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
+- Particulate matter (PM2.5) level is increasing in all the countries and this is affecting the air quality very badly. Countries must act to reduce particulars to the air. 
+
+- Russia, the USA, and India are the top 3 countries that have bad air quality which is very dangerous for health. 
+
+- Palau, Solon Islands, and Maldives are the top 3 countries that have the cleanest air quality.
+
+- Trinidad and Tobago, Yemen, and Myanmar are at risk because the air quality is already dangerous for sensitive groups. These countries must act fast to make the air healthier.
+
 
 ### global air pollution dataset.csv
 - Country: Name of the country
